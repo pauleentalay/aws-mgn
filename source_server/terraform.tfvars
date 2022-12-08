@@ -1,0 +1,6 @@
+vpc_name            = "one-vpc"
+project_name        = "quokka-source-server"
+public_subnet_name  = "public-subnet"
+private_subnet_name = "private-subnet"
+ubuntu_version      = "ubuntu/images/hvm-ssd/ubuntu-jammy-22.04-amd64-server-*"
+ami_owner           = "099720109477"
